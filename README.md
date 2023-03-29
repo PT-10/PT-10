@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=PT-10&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-### Top Languages
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PT-10&layout=compact)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=PT-10&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--
