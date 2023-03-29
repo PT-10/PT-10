@@ -1,10 +1,11 @@
 ### Hi there 👋
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=PT-10)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=PT-10&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--
 **PT-10/PT-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=PT-10&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 Here are some ideas to get you started:
 
