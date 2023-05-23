@@ -2,7 +2,7 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=PT-10&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-(https://github-readme-activity-graph.cyclic.app/graph?username=PT-10&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- (https://github-readme-activity-graph.cyclic.app/graph?username=PT-10&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 <!--
 **PT-10/PT-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
